@@ -1,0 +1,55 @@
+#main{
+	background-color: #BAAEAB;
+}
+#features{
+	background-color: #BAAEAB;
+}
+h1{
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+h2{
+	font-weight: bold;
+	font-size: 2rem;
+	line-height: 1.5;
+}
+h3{
+	font-weight: bold;
+}
+p{
+	color:#009e9b;
+}
+.container-fluid{
+	padding: 10% 2% 3% 15%;
+}
+.img{
+	position: relative;
+	top:-150px;
+}
+#features{
+	padding:0% 5% 0% 5%;
+	text-align: center;
+}
+.icon{
+	margin: 1rem;
+}
+.icon:hover{
+	color:#009e9b;
+}
+#testimonials{
+	padding: 4% 7% 1% 7% ;
+	text-align: center;
+	background-color:#8a7975 ;
+}
+.Steve{
+	width: 15%;
+	border-radius: 100%;
+	margin: 20px;
+}
+.press{
+	background-color:#8a7975;
+	width: 15%; 
+	padding: 0% 0% 1% 0% ;
+}
